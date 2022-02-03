@@ -1,0 +1,19 @@
+.main-title{
+    margin-left: 7px;
+    color: #566D75;
+    font-family: 'K2D', sans-serif;
+    font-size: 30px;
+}
+
+.main-title.-second{
+    color: #0E2E42;
+    font-size: 25px;
+    font-family: 'K2D', sans-serif;
+}
+
+.main-title.-third{
+    color: #2B4756;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 120px;
+    
+}
