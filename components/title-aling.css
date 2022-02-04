@@ -5,3 +5,23 @@
     padding-top: 110px;
     margin-left: 50px;
 }
+
+.paragraf{
+    color: #566D75;
+    font-family: 'K2D', sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    margin-left: 50px;
+    padding-top: 50px;
+}
+
+.rote{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.airplane{
+    padding-top: 0%;
+    padding-left: 50%;
+}
