@@ -11,8 +11,20 @@
     font-family: 'K2D', sans-serif;
 }
 
-.main-title.-third{
+.main-title.-terceiro{
     color: #2B4756;
+    margin-top: 100px;
+    margin-left: 50px;
     font-family: 'Rajdhani', sans-serif;
     font-size: 120px;
+    font-weight: 700;
+}
+
+.paragraf{
+    margin-top: 20px;
+    margin-left: 50px;
+    color: #566D75;
+    font-family: 'K2D',sans-serif;
+    font-size: 30px;
+    font-weight: 400;
 }
