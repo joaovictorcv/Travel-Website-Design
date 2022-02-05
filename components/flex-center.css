@@ -1,0 +1,18 @@
+main{
+    display: flex;
+    width: 100%;
+    height: 877px;
+    border-bottom: 2px solid rgba(86, 109, 117, 0.5);
+}
+
+section{
+    width: 50%;
+}
+
+.leftflex-center{
+    border-right: 2px solid rgba(86, 109, 117, 0.5);
+}
+
+.rightflex-center{
+    border-right: 2px solid rgba(86, 109, 117, 0.5);
+}
