@@ -5,15 +5,14 @@ main{
     border-bottom: 2px solid rgba(86, 109, 117, 0.5);
 }
 
-section{
-    width: 50%;
-}
 
 .leftflex-center{
+    width: 50%;
     border-right: 2px solid rgba(86, 109, 117, 0.5);
 }
 
 .rightflex-center{
+    width: 50%;
     border-right: 2px solid rgba(86, 109, 117, 0.5);
 }
 

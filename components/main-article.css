@@ -1,0 +1,39 @@
+article{
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+
+.left-bottom{
+    width: 60%;
+}
+
+.right-bottom{
+    margin-top: 20px;
+    padding-left: 50px;
+    width: 40%;
+}
+
+.left-bottom{
+    padding-top: 50px;
+    background-color: #FFFDCD;
+}
+
+.container-bottom{
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-titleBottom{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 90px;
+    font-weight: 600;
+    color: #2B4756;
+}
+
+.paragrafBottom{
+    color: #566D75;
+    font-family: 'K2D';
+    font-size: 30px;
+    font-weight: 400;
+}
